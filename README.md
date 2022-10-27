@@ -16,10 +16,12 @@ Also, remember when I said, I'd update the graphics? WELL YES I DID! At the cost
 ### Features
 ---
 + Everything I said from last time, except with some major visual overhauls and getting rid of some features.
-+ 
+
 ## How to play
 ---
 Instructions are on the game and you play the game by clicking random stuff
++ open by typing in "py rps2d"
++ also open by openning "__main__.py"
 
 ### System Requirement
 + python v3
