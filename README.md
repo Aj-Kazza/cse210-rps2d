@@ -5,6 +5,8 @@ This is a Rock, paper, scissors, lizard, spock game.
 you will be asked to pick one of the 5 choices and the computer will choose one from random and see who wins.
 BUT WITH A FANTASY RPG TWIST!!!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ldtY2FbiAJ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Introduction
 ---
 Introducing that one game that you've always played as a kid, and that other game you also played as a kid: RPSLS The One Dimentional Version!
