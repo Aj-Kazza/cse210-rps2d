@@ -499,7 +499,7 @@ def game():
                     player.setattack("spock")
                     attack = True
                     WINDOWS.blit(click, (pos))
-                    sfx_blip.play()
+
 
             if attack == True:
                 calc = calc + 1
