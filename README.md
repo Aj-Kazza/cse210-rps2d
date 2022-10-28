@@ -31,7 +31,7 @@ Instructions are on the game and you play the game by clicking random stuff
 ---
 + Ari-John Katia
 
-### UPCOMING Features (but only when I fail this course again, otherwise I aint touching this game ever again)
+### UPCOMING Features (but only when I fail this course again, otherwise I aint touching this game ever again... on second thought, I'd still implement new features even if I pass)
 ---
 + more enemy types
 + return of the run and feint feature
