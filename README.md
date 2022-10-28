@@ -5,6 +5,8 @@ This is a Rock, paper, scissors, lizard, spock game.
 you will be asked to pick one of the 5 choices and the computer will choose one from random and see who wins.
 BUT WITH A FANTASY RPG TWIST!!!
 
+https://youtu.be/ldtY2FbiAJ4
+
 ## Introduction
 ---
 Introducing that one game that you've always played as a kid, and that other game you also played as a kid: RPSLS The One Dimentional Version!
@@ -16,10 +18,12 @@ Also, remember when I said, I'd update the graphics? WELL YES I DID! At the cost
 ### Features
 ---
 + Everything I said from last time, except with some major visual overhauls and getting rid of some features.
-+ 
+
 ## How to play
 ---
 Instructions are on the game and you play the game by clicking random stuff
++ open by typing in "py rps2d"
++ also open by openning "__main__.py"
 
 ### System Requirement
 + python v3
